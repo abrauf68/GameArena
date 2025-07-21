@@ -198,7 +198,7 @@
         {
           title: "Flappy Ball",
           image: "assets/images/game-pics/flappy.png",
-          url: "games/flappy-boll.php",
+          url: "games/flappy-bird.php",
           category: "fun-game"
         },
         {
