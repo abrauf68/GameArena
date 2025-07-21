@@ -69,206 +69,7 @@
         <div class="container">
           <div class="grid grid-cols-12 gap-x-30p gap-y-10">
             <div class="xxl:col-span-9 xl:col-span-8 col-span-12 xl:order-1 order-2">
-              <div class="grid xxl:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-30p">
-
-                <div class="bg-b-neutral-3 px-20p pt-20p pb-32p rounded-12" data-aos="zoom-in">
-                  <div class="glitch-effect rounded-12 overflow-hidden mb-24p">
-                    <div class="glitch-thumb">
-                      <img class="w-full md:h-[228px] h-[200px] object-cover"
-                        src="./assets/images/games/game14.png" alt="Power Play" />
-                    </div>
-                    <div class="glitch-thumb">
-                      <img class="w-full md:h-[228px] h-[200px] object-cover"
-                        src="./assets/images/games/game14.png" alt="Power Play" />
-                    </div>
-                  </div>
-                  <div>
-                    <a href="./game-details.html"
-                      class="heading-4 text-w-neutral-1 link-1 line-clamp-1 text-split-left">
-                      Power Play
-                    </a>
-                    <p class="text-l-regular text-w-neutral-2">
-                      Animal Park Adventures
-                    </p>
-                  </div>
-                </div>
-
-                <div class="bg-b-neutral-3 px-20p pt-20p pb-32p rounded-12" data-aos="zoom-in">
-                  <div class="glitch-effect rounded-12 overflow-hidden mb-24p">
-                    <div class="glitch-thumb">
-                      <img class="w-full md:h-[228px] h-[200px] object-cover"
-                        src="./assets/images/games/game15.png" alt="Gourmet Empire" />
-                    </div>
-                    <div class="glitch-thumb">
-                      <img class="w-full md:h-[228px] h-[200px] object-cover"
-                        src="./assets/images/games/game15.png" alt="Gourmet Empire" />
-                    </div>
-                  </div>
-                  <div>
-                    <a href="./game-details.html"
-                      class="heading-4 text-w-neutral-1 link-1 line-clamp-1 text-split-left">
-                      Gourmet Empire
-                    </a>
-                    <p class="text-l-regular text-w-neutral-2">
-                      Food Tycoon
-                    </p>
-                  </div>
-                </div>
-
-                <div class="bg-b-neutral-3 px-20p pt-20p pb-32p rounded-12" data-aos="zoom-in">
-                  <div class="glitch-effect rounded-12 overflow-hidden mb-24p">
-                    <div class="glitch-thumb">
-                      <img class="w-full md:h-[228px] h-[200px] object-cover"
-                        src="./assets/images/games/game16.png" alt="Flight Captain" />
-                    </div>
-                    <div class="glitch-thumb">
-                      <img class="w-full md:h-[228px] h-[200px] object-cover"
-                        src="./assets/images/games/game16.png" alt="Flight Captain" />
-                    </div>
-                  </div>
-                  <div>
-                    <a href="./game-details.html"
-                      class="heading-4 text-w-neutral-1 link-1 line-clamp-1 text-split-left">
-                      Flight Captain
-                    </a>
-                    <p class="text-l-regular text-w-neutral-2">
-                      Sky Adventures
-                    </p>
-                  </div>
-                </div>
-
-                <div class="bg-b-neutral-3 px-20p pt-20p pb-32p rounded-12" data-aos="zoom-in">
-                  <div class="glitch-effect rounded-12 overflow-hidden mb-24p">
-                    <div class="glitch-thumb">
-                      <img class="w-full md:h-[228px] h-[200px] object-cover"
-                        src="./assets/images/games/game17.png" alt="Animal Park Adventures" />
-                    </div>
-                    <div class="glitch-thumb">
-                      <img class="w-full md:h-[228px] h-[200px] object-cover"
-                        src="./assets/images/games/game17.png" alt="Animal Park Adventures" />
-                    </div>
-                  </div>
-                  <div>
-                    <a href="./game-details.html"
-                      class="heading-4 text-w-neutral-1 link-1 line-clamp-1 text-split-left">
-                      Animal Park Adventures
-                    </a>
-                    <p class="text-l-regular text-w-neutral-2">
-                      Wildlife Journey
-                    </p>
-                  </div>
-                </div>
-
-                <div class="bg-b-neutral-3 px-20p pt-20p pb-32p rounded-12" data-aos="zoom-in">
-                  <div class="glitch-effect rounded-12 overflow-hidden mb-24p">
-                    <div class="glitch-thumb">
-                      <img class="w-full md:h-[228px] h-[200px] object-cover"
-                        src="./assets/images/games/game18.png" alt="Battles Beyond the Stars" />
-                    </div>
-                    <div class="glitch-thumb">
-                      <img class="w-full md:h-[228px] h-[200px] object-cover"
-                        src="./assets/images/games/game18.png" alt="Battles Beyond the Stars" />
-                    </div>
-                  </div>
-                  <div>
-                    <a href="./game-details.html"
-                      class="heading-4 text-w-neutral-1 link-1 line-clamp-1 text-split-left">
-                      Battles Beyond the Stars
-                    </a>
-                    <p class="text-l-regular text-w-neutral-2">
-                      Galactic War
-                    </p>
-                  </div>
-                </div>
-
-                <div class="bg-b-neutral-3 px-20p pt-20p pb-32p rounded-12" data-aos="zoom-in">
-                  <div class="glitch-effect rounded-12 overflow-hidden mb-24p">
-                    <div class="glitch-thumb">
-                      <img class="w-full md:h-[228px] h-[200px] object-cover"
-                        src="./assets/images/games/game19.png" alt="Gridiron Glory" />
-                    </div>
-                    <div class="glitch-thumb">
-                      <img class="w-full md:h-[228px] h-[200px] object-cover"
-                        src="./assets/images/games/game19.png" alt="Gridiron Glory" />
-                    </div>
-                  </div>
-                  <div>
-                    <a href="./game-details.html"
-                      class="heading-4 text-w-neutral-1 link-1 line-clamp-1 text-split-left">
-                      Gridiron Glory
-                    </a>
-                    <p class="text-l-regular text-w-neutral-2">
-                      Ultimate Football
-                    </p>
-                  </div>
-                </div>
-
-                <div class="bg-b-neutral-3 px-20p pt-20p pb-32p rounded-12" data-aos="zoom-in">
-                  <div class="glitch-effect rounded-12 overflow-hidden mb-24p">
-                    <div class="glitch-thumb">
-                      <img class="w-full md:h-[228px] h-[200px] object-cover"
-                        src="./assets/images/games/game20.png" alt="Animal Park Adventures" />
-                    </div>
-                    <div class="glitch-thumb">
-                      <img class="w-full md:h-[228px] h-[200px] object-cover"
-                        src="./assets/images/games/game20.png" alt="Animal Park Adventures" />
-                    </div>
-                  </div>
-                  <div>
-                    <a href="./game-details.html"
-                      class="heading-4 text-w-neutral-1 link-1 line-clamp-1 text-split-left">
-                      Animal Park Adventures
-                    </a>
-                    <p class="text-l-regular text-w-neutral-2">
-                      Wildlife Journey
-                    </p>
-                  </div>
-                </div>
-
-                <div class="bg-b-neutral-3 px-20p pt-20p pb-32p rounded-12" data-aos="zoom-in">
-                  <div class="glitch-effect rounded-12 overflow-hidden mb-24p">
-                    <div class="glitch-thumb">
-                      <img class="w-full md:h-[228px] h-[200px] object-cover"
-                        src="./assets/images/games/game21.png" alt="Battles Beyond the Stars" />
-                    </div>
-                    <div class="glitch-thumb">
-                      <img class="w-full md:h-[228px] h-[200px] object-cover"
-                        src="./assets/images/games/game21.png" alt="Battles Beyond the Stars" />
-                    </div>
-                  </div>
-                  <div>
-                    <a href="./game-details.html"
-                      class="heading-4 text-w-neutral-1 link-1 line-clamp-1 text-split-left">
-                      Gourmet Empire
-                    </a>
-                    <p class="text-l-regular text-w-neutral-2">
-                      Galactic War
-                    </p>
-                  </div>
-                </div>
-
-                <div class="bg-b-neutral-3 px-20p pt-20p pb-32p rounded-12" data-aos="zoom-in">
-                  <div class="glitch-effect rounded-12 overflow-hidden mb-24p">
-                    <div class="glitch-thumb">
-                      <img class="w-full md:h-[228px] h-[200px] object-cover"
-                        src="./assets/images/games/game22.png" alt="Gridiron Glory" />
-                    </div>
-                    <div class="glitch-thumb">
-                      <img class="w-full md:h-[228px] h-[200px] object-cover"
-                        src="./assets/images/games/game22.png" alt="Gridiron Glory" />
-                    </div>
-                  </div>
-                  <div>
-                    <a href="./game-details.html"
-                      class="heading-4 text-w-neutral-1 link-1 line-clamp-1 text-split-left">
-                      Flight Captain
-                    </a>
-                    <p class="text-l-regular text-w-neutral-2">
-                      Ultimate Football
-                    </p>
-                  </div>
-                </div>
-
+              <div id="gameContainer" class="grid xxl:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-30p">
               </div>
 
               <div
@@ -277,27 +78,6 @@
                   <i class="ti ti-chevron-left"></i>
                 </a>
                 <div class="pagination-list">
-                  <a href="#" class="pagination-item pagination-circle active">
-                    <span class="pagination-link">1</span>
-                  </a>
-                  <a href="#" class="pagination-item pagination-circle">
-                    <span class="pagination-link">2</span>
-                  </a>
-                  <a href="#" class="pagination-item pagination-circle">
-                    <span class="pagination-link">3</span>
-                  </a>
-                  <a href="#" class="pagination-item pagination-circle">
-                    <span class="pagination-link">4</span>
-                  </a>
-                  <a href="#" class="pagination-item pagination-circle">
-                    <span class="pagination-link">5</span>
-                  </a>
-                  <a href="#" class="pagination-item pagination-circle">
-                    <span class="pagination-link pagination-more">...</span>
-                  </a>
-                  <a href="#" class="pagination-item pagination-circle">
-                    <span class="pagination-link">10</span>
-                  </a>
                 </div>
                 <a href="#" class="pagination-item pagination-next">
                   <i class="ti ti-chevron-right"></i>
@@ -323,41 +103,51 @@
                     <ul>
                       <li>
                         <div class="checkbox-container shrink-0">
-                          <input type="checkbox" value="playstation" id="platform-1"
+                          <input type="checkbox" value="mind-game" id="platform-1"
                             class="border-corners-checkbox" checked>
                           <label for="platform-1" class="border-corners-checkbox-label gap-2">
                             <i class="ti icon-24 text-primary"></i>
-                            Playstation
+                            Mind Games
                           </label>
                         </div>
                       </li>
                       <li>
                         <div class="checkbox-container shrink-0">
-                          <input type="checkbox" value="xbox" id="platform-2"
+                          <input type="checkbox" value="puzzle-game" id="platform-2"
                             class="border-corners-checkbox" checked>
                           <label for="platform-2" class="border-corners-checkbox-label gap-2">
                             <i class="ti icon-24 text-primary"></i>
-                            XBOX
+                            Puzzle Games
                           </label>
                         </div>
                       </li>
                       <li>
                         <div class="checkbox-container shrink-0">
-                          <input type="checkbox" value="windows" id="platform-3"
+                          <input type="checkbox" value="fun-game" id="platform-3"
                             class="border-corners-checkbox" checked>
                           <label for="platform-3" class="border-corners-checkbox-label gap-2">
                             <i class="ti icon-24 text-primary"></i>
-                            Windows
+                            Fun Games
                           </label>
                         </div>
                       </li>
                       <li>
                         <div class="checkbox-container shrink-0">
-                          <input type="checkbox" value="mac_os" id="platform-4"
+                          <input type="checkbox" value="luck-game" id="platform-4"
                             class="border-corners-checkbox" checked>
                           <label for="platform-4" class="border-corners-checkbox-label gap-2">
                             <i class="ti icon-24 text-primary"></i>
-                            Mac OS
+                            Luck Games
+                          </label>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="checkbox-container shrink-0">
+                          <input type="checkbox" value="tools" id="platform-5"
+                            class="border-corners-checkbox" checked>
+                          <label for="platform-4" class="border-corners-checkbox-label gap-2">
+                            <i class="ti icon-24 text-primary"></i>
+                            Tools
                           </label>
                         </div>
                       </li>
@@ -374,233 +164,212 @@
     </main>
     <!-- main end -->
 
-    <!-- footer start -->
-    <footer class="relative section-pt overflow-hidden bg-b-neutral-3">
-      <div class="container">
-        <div class="relative z-10 lg:px-10">
-          <div class="flex items-center justify-between gap-24p pb-60p">
-            <div class="max-w-[530px]">
-              <h2 class="display-4 text-w-neutral-1 mb-32p text-split-left">Subscribe to our</h2>
-              <h2 class="display-lg mb-32p">
-                Newsletter
-              </h2>
-              <form class="flex items-center gap-24p pb-16p border-b-2 border-dashed border-shap">
-                <input type="email" name="subscribe" id="subscribe" required
-                  placeholder="Enter your email address"
-                  class="input w-full bg-transparent text-w-neutral-1 placeholder:text-w-neutral-4" />
-                <button type="submit" class="text-lg font-semibold font-poppins">Subscribe</button>
-              </form>
-            </div>
+    <script>
+      const games = [{
+          title: "Super Snake",
+          image: "assets/images/game-pics/snake.jpg",
+          url: "games/snake-game.php",
+          category: "fun-game"
+        },
+        {
+          title: "Arkanoid Ball",
+          image: "assets/images/game-pics/ping-ball.jpg",
+          url: "games/ping-ball.php",
+          category: "fun-game"
+        },
+        {
+          title: "Build The Block",
+          image: "assets/images/game-pics/block-puzzle.jpg",
+          url: "games/block-align-game.php",
+          category: "puzzle-game"
+        },
+        {
+          title: "Slide The Block",
+          image: "assets/images/game-pics/block-slide.png",
+          url: "games/block-slide-puzzle.php",
+          category: "puzzle-game"
+        },
+        {
+          title: "Rock Paper Scissors",
+          image: "assets/images/game-pics/rock-paper-scissors.png",
+          url: "games/rock-paper-scissors.php",
+          category: "luck-game"
+        },
+        {
+          title: "Flappy Ball",
+          image: "assets/images/game-pics/flappy.png",
+          url: "games/flappy-boll.php",
+          category: "fun-game"
+        },
+        {
+          title: "Tic Tac Toe",
+          image: "assets/images/game-pics/tictac.png",
+          url: "games/tic-tac.php",
+          category: "fun-game"
+        },
+        {
+          title: "Jigsaw",
+          image: "assets/images/game-pics/jigsaw.jpg",
+          url: "games/jigsaw-puzzle.php",
+          category: "puzzle-game"
+        },
+        {
+          title: "2048",
+          image: "assets/images/game-pics/2048-Game.jpg",
+          url: "games/2048-game.php",
+          category: "mind-game"
+        },
+        {
+          title: "Memory Match",
+          image: "assets/images/game-pics/memory-match.jpg",
+          url: "games/memory-match.php",
+          category: "mind-game"
+        },
+        {
+          title: "Sudoku",
+          image: "assets/images/game-pics/sudoku-game.png",
+          url: "games/sudoku-game.php",
+          category: "mind-game"
+        },
+        {
+          title: "Slot Spin",
+          image: "assets/images/game-pics/slot-spin.jpg",
+          url: "games/slot-spin.php",
+          category: "luck-game"
+        },
+        {
+          title: "Dino",
+          image: "assets/images/game-pics/dino.png",
+          url: "games/dino.php",
+          category: "fun-game"
+        },
+        {
+          title: "Hangman Word Quest",
+          image: "assets/images/game-pics/word-quest.png",
+          url: "games/hangman-word-quest.php",
+          category: "mind-game"
+        },
+        {
+          title: "Roll The Dice",
+          image: "assets/images/game-pics/roll-the-dice.png",
+          url: "games/role-dice.php",
+          category: "luck-game"
+        },
+        {
+          title: "Toss The Coin",
+          image: "assets/images/game-pics/coin-toss.png",
+          url: "games/coin-toss.php",
+          category: "luck-game"
+        },
+        {
+          title: "Simon Says",
+          image: "assets/images/game-pics/simon-says.png",
+          url: "games/simon-says.php",
+          category: "mind-game"
+        },
+        {
+          title: "Speed Typing",
+          image: "assets/images/game-pics/typing-speed.png",
+          url: "games/typing-speed.php",
+          category: "tools"
+        },
+        {
+          title: "Internet Speed Checker",
+          image: "assets/images/game-pics/speed-tester.jpg",
+          url: "games/speed-tester.php",
+          category: "tools"
+        },
+      ];
 
-          </div>
-          <div
-            class="grid 4xl:grid-cols-12 3xl:grid-cols-4 sm:grid-cols-2 grid-cols-1 4xl:gap-x-6 max-4xl:gap-40p border-y-2 border-dashed border-shap py-80p">
-            <div class="4xl:col-start-1 4xl:col-end-4">
-              <img class="mb-16p" src="./assets/images/icons/logo.png" alt="logo" />
-              <p class="text-base text-w-neutral-3 mb-32p">
-                Become visionary behind a sprawling metropolis in Metropolis Tycoon Plan empire progress.
-              </p>
-              <div class="flex items-center gap-3">
-                <a href="#" class="btn-socal-primary">
-                  <i class="ti ti-brand-facebook"></i>
-                </a>
-                <a href="#" class="btn-socal-primary">
-                  <i class="ti ti-brand-twitch"></i>
-                </a>
-                <a href="#" class="btn-socal-primary">
-                  <i class="ti ti-brand-instagram"></i>
-                </a>
-                <a href="#" class="btn-socal-primary">
-                  <i class="ti ti-brand-discord"></i>
-                </a>
-                <a href="#" class="btn-socal-primary">
-                  <i class="ti ti-brand-youtube"></i>
-                </a>
-              </div>
+      const gamesPerPage = 8;
+      let currentPage = 1;
+
+      function renderGames(page = 1) {
+        const start = (page - 1) * gamesPerPage;
+        const end = start + gamesPerPage;
+        const paginatedGames = games.slice(start, end);
+
+        const gameContainer = document.getElementById('gameContainer');
+        gameContainer.innerHTML = ''; // clear previous
+
+        paginatedGames.forEach(game => {
+          gameContainer.innerHTML += `
+        <div class="bg-b-neutral-3 px-20p pt-20p pb-32p rounded-12" data-aos="zoom-in">
+          <div class="glitch-effect rounded-12 overflow-hidden mb-24p">
+            <div class="glitch-thumb">
+              <img class="w-full md:h-[228px] h-[200px] object-cover" src="${game.image}" alt="${game.title}" />
             </div>
-            <div class="4xl:col-start-5 4xl:col-end-7">
-              <div class="flex items-center gap-24p mb-24p">
-                <h4 class="heading-4 text-w-neutral-1 whitespace-nowrap ">
-                  Main pages
-                </h4>
-                <span class="w-full max-w-[110px] h-0.5 bg-w-neutral-1"></span>
-              </div>
-              <ul class="grid grid-cols-2 sm:gap-y-16p gap-y-2 gap-x-32p *:flex *:items-center">
-                <li
-                  class="group hover:translate-x-0 -translate-x-5 inline-flex items-center gap-1 hover:text-primary transition-1 max-w-fit">
-                  <i
-                    class="ti ti-chevron-right  group-hover:visible invisible text-primary group-hover:opacity-100 opacity-0 transition-1"></i>
-                  <a href="./library.html" class="text-m-regular text-w-neutral-3">
-                    My Library
-                  </a>
-                </li>
-                <li
-                  class="group hover:translate-x-0 -translate-x-5 inline-flex items-center gap-1 hover:text-primary transition-1 max-w-fit">
-                  <i
-                    class="ti ti-chevron-right  group-hover:visible invisible text-primary group-hover:opacity-100 opacity-0 transition-1"></i>
-                  <a href="./trending.html" class="text-m-regular text-w-neutral-3">
-                    Trending
-                  </a>
-                </li>
-                <li
-                  class="group hover:translate-x-0 -translate-x-5 inline-flex items-center gap-1 hover:text-primary transition-1 max-w-fit">
-                  <i
-                    class="ti ti-chevron-right  group-hover:visible invisible text-primary group-hover:opacity-100 opacity-0 transition-1"></i>
-                  <a href="./leaderboard.html" class="text-m-regular text-w-neutral-3">
-                    Leaderboard
-                  </a>
-                </li>
-                <li
-                  class="group hover:translate-x-0 -translate-x-5 inline-flex items-center gap-1 hover:text-primary transition-1 max-w-fit">
-                  <i
-                    class="ti ti-chevron-right  group-hover:visible invisible text-primary group-hover:opacity-100 opacity-0 transition-1"></i>
-                  <a href="./chat.html" class="text-m-regular text-w-neutral-3">
-                    Chat
-                  </a>
-                </li>
-                <li
-                  class="group hover:translate-x-0 -translate-x-5 inline-flex items-center gap-1 hover:text-primary transition-1 max-w-fit">
-                  <i
-                    class="ti ti-chevron-right  group-hover:visible invisible text-primary group-hover:opacity-100 opacity-0 transition-1"></i>
-                  <a href="./marketplace-two.html" class="text-m-regular text-w-neutral-3">
-                    Marketplace
-                  </a>
-                </li>
-                <li
-                  class="group hover:translate-x-0 -translate-x-5 inline-flex items-center gap-1 hover:text-primary transition-1 max-w-fit">
-                  <i
-                    class="ti ti-chevron-right  group-hover:visible invisible text-primary group-hover:opacity-100 opacity-0 transition-1"></i>
-                  <a href="./shop.html" class="text-m-regular text-w-neutral-3">
-                    Shop
-                  </a>
-                </li>
-                <li
-                  class="group hover:translate-x-0 -translate-x-5 inline-flex items-center gap-1 hover:text-primary transition-1 max-w-fit">
-                  <i
-                    class="ti ti-chevron-right  group-hover:visible invisible text-primary group-hover:opacity-100 opacity-0 transition-1"></i>
-                  <a href="./contact-us.html" class="text-m-regular text-w-neutral-3">
-                    Support
-                  </a>
-                </li>
-                <li
-                  class="group hover:translate-x-0 -translate-x-5 inline-flex items-center gap-1 hover:text-primary transition-1 max-w-fit">
-                  <i
-                    class="ti ti-chevron-right  group-hover:visible invisible text-primary group-hover:opacity-100 opacity-0 transition-1"></i>
-                  <a href="./blogs.html" class="text-m-regular text-w-neutral-3">
-                    Blogs
-                  </a>
-                </li>
-              </ul>
-            </div>
-            <div class="4xl:col-start-8 4xl:col-end-10">
-              <div class="flex items-center gap-24p mb-24p">
-                <h4 class="heading-4 text-w-neutral-1 whitespace-nowrap ">
-                  Utility pages
-                </h4>
-                <span class="w-full max-w-[110px] h-0.5 bg-w-neutral-1"></span>
-              </div>
-              <ul class="grid grid-cols-2 sm:gap-y-16p gap-y-2 gap-x-32p *:flex *:items-center">
-                <li
-                  class="group hover:translate-x-0 -translate-x-5 inline-flex items-center gap-1 hover:text-primary transition-1 max-w-fit">
-                  <i
-                    class="ti ti-chevron-right  group-hover:visible invisible text-primary group-hover:opacity-100 opacity-0 transition-1"></i>
-                  <a href="./tournaments.html" class="text-m-regular text-w-neutral-3">
-                    Tournaments
-                  </a>
-                </li>
-                <li
-                  class="group hover:translate-x-0 -translate-x-5 inline-flex items-center gap-1 hover:text-primary transition-1 max-w-fit">
-                  <i
-                    class="ti ti-chevron-right  group-hover:visible invisible text-primary group-hover:opacity-100 opacity-0 transition-1"></i>
-                  <a href="./games.html" class="text-m-regular text-w-neutral-3">
-                    Games
-                  </a>
-                </li>
-                <li
-                  class="group hover:translate-x-0 -translate-x-5 inline-flex items-center gap-1 hover:text-primary transition-1 max-w-fit">
-                  <i
-                    class="ti ti-chevron-right  group-hover:visible invisible text-primary group-hover:opacity-100 opacity-0 transition-1"></i>
-                  <a href="./community.html" class="text-m-regular text-w-neutral-3">
-                    Community
-                  </a>
-                </li>
-                <li
-                  class="group hover:translate-x-0 -translate-x-5 inline-flex items-center gap-1 hover:text-primary transition-1 max-w-fit">
-                  <i
-                    class="ti ti-chevron-right  group-hover:visible invisible text-primary group-hover:opacity-100 opacity-0 transition-1"></i>
-                  <a href="./pricing-plan.html" class="text-m-regular text-w-neutral-3">
-                    Pricing
-                  </a>
-                </li>
-                <li
-                  class="group hover:translate-x-0 -translate-x-5 inline-flex items-center gap-1 hover:text-primary transition-1 max-w-fit">
-                  <i
-                    class="ti ti-chevron-right  group-hover:visible invisible text-primary group-hover:opacity-100 opacity-0 transition-1"></i>
-                  <a href="#" class="text-m-regular text-w-neutral-3">
-                    Notifications
-                  </a>
-                </li>
-                <li
-                  class="group hover:translate-x-0 -translate-x-5 inline-flex items-center gap-1 hover:text-primary transition-1 max-w-fit">
-                  <i
-                    class="ti ti-chevron-right  group-hover:visible invisible text-primary group-hover:opacity-100 opacity-0 transition-1"></i>
-                  <a href="./not-found.html" class="text-m-regular text-w-neutral-3">
-                    Not found
-                  </a>
-                </li>
-                <li
-                  class="group hover:translate-x-0 -translate-x-5 inline-flex items-center gap-1 hover:text-primary transition-1 max-w-fit">
-                  <i
-                    class="ti ti-chevron-right  group-hover:visible invisible text-primary group-hover:opacity-100 opacity-0 transition-1"></i>
-                  <a href="./contact-us.html" class="text-m-regular text-w-neutral-3">
-                    Contact
-                  </a>
-                </li>
-              </ul>
-            </div>
-            <div class="4xl:col-start-11 4xl:col-end-13">
-              <h4 class="heading-4 text-w-neutral-1 whitespace-nowrap  mb-3">
-                Email Us
-              </h4>
-              <a href="mailto:debra.holt@example.com" class="text-base text-w-neutral-3 mb-32p">
-                debra.holt@example.com
-              </a>
-              <h4 class="heading-5 whitespace-nowrap mb-3">
-                Contact Us
-              </h4>
-              <a href="tel:207555-0119" class="text-base text-w-neutral-3">
-                (207) 555-0119
-              </a>
+            <div class="glitch-thumb">
+              <img class="w-full md:h-[228px] h-[200px] object-cover" src="${game.image}" alt="${game.title}" />
             </div>
           </div>
-          <div class="flex items-center justify-between flex-wrap gap-24p py-30p">
-            <div class="flex items-center flex-wrap">
-              <p class="text-base text-w-neutral-3">
-                Copyright ©
-                <span class="currentYear span"></span>
-              </p>
-              <div class="w-1px h-4 bg-shap mx-24p"></div>
-              <p class="text-base text-white">
-                Designed By <a href="https://themeforest.net/user/uiaxis/portfolio"
-                  class="text-primary hover:underline a">UIAXIS</a>
-              </p>
-            </div>
-            <div class="flex items-center text-base gap-24p text-white">
-              <a href="./faqs.html" class="hover:text-primary transition-1 block">
-                Privacy
-              </a>
-              <a href="./terms-conditions.html" class="hover:text-primary transition-1 block">
-                Terms & Conditions
-              </a>
-            </div>
+          <div>
+            <a href="${game.url}" class="heading-4 text-w-neutral-1 link-1 line-clamp-1 text-split-left">
+              ${game.title}
+            </a>
+            <p class="text-l-regular text-w-neutral-2">
+              ${game.category.replace('-', ' ')}
+            </p>
           </div>
         </div>
-        <div class="absolute right-0 top-0 xl:block hidden" data-aos="zoom-out-right" data-aos-duration="800">
-          <img class="3xl:w-[580px] xxl:w-[500px] xl:w-[400px]" src="./assets/images/photos/footerIllustration.webp"
-            alt="footer" />
-        </div>
-      </div>
-    </footer>
+      `;
+        });
+
+        renderPagination();
+      }
+
+      function renderPagination() {
+        const totalPages = Math.ceil(games.length / gamesPerPage);
+        const paginationList = document.querySelector('.pagination-list');
+        paginationList.innerHTML = '';
+
+        for (let i = 1; i <= totalPages; i++) {
+          paginationList.innerHTML += `
+        <a href="#" class="pagination-item pagination-circle ${i === currentPage ? 'active' : ''}" data-page="${i}">
+          <span class="pagination-link">${i}</span>
+        </a>
+      `;
+        }
+
+        // Handle next/prev states
+        document.querySelector('.pagination-prev').style.visibility = currentPage === 1 ? 'hidden' : 'visible';
+        document.querySelector('.pagination-next').style.visibility = currentPage === totalPages ? 'hidden' : 'visible';
+      }
+
+      // Pagination click handler
+      document.addEventListener('click', function(e) {
+        if (e.target.closest('.pagination-item')) {
+          e.preventDefault();
+
+          const page = e.target.closest('.pagination-item').dataset.page;
+          if (page) {
+            currentPage = parseInt(page);
+            renderGames(currentPage);
+          }
+        }
+
+        if (e.target.closest('.pagination-prev')) {
+          if (currentPage > 1) {
+            currentPage--;
+            renderGames(currentPage);
+          }
+        }
+
+        if (e.target.closest('.pagination-next')) {
+          const totalPages = Math.ceil(games.length / gamesPerPage);
+          if (currentPage < totalPages) {
+            currentPage++;
+            renderGames(currentPage);
+          }
+        }
+      });
+
+      // Initial render
+      renderGames(currentPage);
+    </script>
+
+    <!-- footer start -->
+    <?php include './layout/footer.php' ?>
     <!-- footer end -->
   </div>
   <!-- app layout end -->
